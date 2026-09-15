@@ -1,2 +1,2 @@
-# Narendar-kor
-First project github
+Name : Narendar Kor
+Roll_No. : 70
